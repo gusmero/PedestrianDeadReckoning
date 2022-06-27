@@ -1,2 +1,2 @@
 # PedestrianDeadReckoning
-Research on Pedestrian Dead Reckoning
+![Presentation](/Presentation.pdf)
